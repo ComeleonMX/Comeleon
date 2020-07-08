@@ -5,7 +5,7 @@
     --orange:#DDA15E;
     --coffee: #BC6C25;
 }
-
+/*Colores*/
 .bg-vert{
 	background-color: var(--vert) !important;
 }
